@@ -14,7 +14,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/The-Millennial-Boat/ouroboros.git
+git clone https://github.com/millennialboat/ouroboros.git
 cd ouroboros
 
 # 安装依赖

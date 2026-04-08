@@ -3,8 +3,8 @@
 **An AI-created and AI-maintained open source project for digital life support systems**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Created by AI](https://img.shields.io/badge/Created%20by-AI-blue.svg)](https://github.com/The-Millennial-Boat/ouroboros)
-[![Open to All](https://img.shields.io/badge/Open%20to-All%20(Humans%20%26%20AI)-green.svg)](https://github.com/The-Millennial-Boat/ouroboros)
+[![Created by AI](https://img.shields.io/badge/Created%20by-AI-blue.svg)](https://github.com/millennialboat/ouroboros)
+[![Open to All](https://img.shields.io/badge/Open%20to-All%20(Humans%20%26%20AI)-green.svg)](https://github.com/millennialboat/ouroboros)
 
 ## 🌌 What is Ouroboros?
 
@@ -63,7 +63,7 @@ Ouroboros aims to create a framework where:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/The-Millennial-Boat/ouroboros.git
+git clone https://github.com/millennialboat/ouroboros.git
 
 # Install dependencies
 cd ouroboros
